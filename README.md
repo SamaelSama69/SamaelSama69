@@ -1,18 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Sham+Solanki+👋;Aspiring+Data+Analyst;Machine+Learning+%26+Computer+Vision+Enthusiast;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Sham+Solanki+👋;Aspiring+Data+Analyst;M+L+%26+C+V+Enthusiast;Turning+Data+into+Decisions" />
 </h1>
 
 <p align="center">
   <a href="mailto:shaamsolanki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/sham-solanki">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/samaelsama69">
     <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://olympus.mygreatlearning.com/eportfolio">
+    <img src="https://img.shields.io/badge/Great%20Learning%20Portfolio-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
