@@ -1,0 +1,40 @@
+{
+  "saved_at": "2026-11-12",
+  "note": "GitHub profile fields and repository descriptions from before the 2026-11-12 edit. README files are backup/original-README.md and backup/text-profile-README.md. Full history is also tagged: backup/original-profile, backup/text-profile, backup/cyberpunk-profile.",
+  "user_before": {
+    "name": "samaelsama69",
+    "bio": null,
+    "blog": "",
+    "hireable": null,
+    "location": null
+  },
+  "user_after": {
+    "name": "Sham Solanki",
+    "bio": "Data science and machine learning. RAG, voice agents, and computer vision in Python and SQL.",
+    "blog": "https://www.mygreatlearning.com/eportfolio/sham-solanki",
+    "hireable": true,
+    "location": null
+  },
+  "repository_descriptions_before": {
+    "Enterprise_RAG_Project": null,
+    "voice-agent": null,
+    "fabric-defect-detection": null,
+    "Computer-Vision": "Computer vision project that detects whether workers are wearing safety helmets using deep learning. Built and evaluated ANN, CNN, and transfer learning (VGG16) models on a balanced dataset of 631 images, achieving high accuracy for real-time workplace safety monitoring and automated compliance detection.",
+    "Credit_card_Fraud_Detection": null
+  },
+  "repository_descriptions_after": {
+    "Enterprise_RAG_Project": "Question answering over policy documents with LangChain, FAISS plus BM25 hybrid search, FLAN-T5, FastAPI, and Streamlit.",
+    "voice-agent": "Voice receptionist for appointment booking, rescheduling, and doctor lookup. FastAPI, LangChain, and Vapi, with evals and traces.",
+    "fabric-defect-detection": "YOLO detection for fabric and garment defects, with a FastAPI service, Streamlit dashboard, Docker, and on-device ONNX inference.",
+    "Computer-Vision": "Detects whether workers are wearing safety helmets. Compares ANN, CNN, and VGG16 on a balanced set of 631 images."
+  },
+  "pinned_before": [],
+  "pinned_after": [
+    "fabric-defect-detection",
+    "Credit_card_Fraud_Detection",
+    "Enterprise_RAG_Project",
+    "SmartTrader-X",
+    "voice-agent",
+    "Computer-Vision"
+  ]
+}
