@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Sham+Solanki+👋;Aspiring+Data+Analyst;ML+%26+CV+Enthusiast;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Sham+Solanki;Data+Science+%26+Machine+Learning;RAG%2C+voice+agents%2C+and+vision;Python+%C2%B7+SQL+%C2%B7+LLMs" />
 </h1>
 
 <p align="center">
@@ -11,114 +11,74 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/samaelsama69">
+  <a href="https://github.com/SamaelSama69">
     <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://olympus.mygreatlearning.com/eportfolio">
+  <a href="https://www.mygreatlearning.com/eportfolio/sham-solanki">
     <img src="https://img.shields.io/badge/Great%20Learning%20Portfolio-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
+---
+
+## About
+
+I build applied machine-learning systems in Python: document retrieval, voice workflows, and computer vision. Earlier work is classical ML and SQL analytics, including classification, clustering, and business reporting.
+
+Currently learning how to run those systems as services: Postgres, Docker, and metrics. AWS is still at the basics.
+
+📫 [shaamsolanki@gmail.com](mailto:shaamsolanki@gmail.com)
+🌐 [Great Learning portfolio](https://www.mygreatlearning.com/eportfolio/sham-solanki)
 
 ---
 
-## 🚀 About Me
+## Selected work
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+* **[Enterprise RAG](https://github.com/SamaelSama69/Enterprise_RAG_Project)** — question answering over policy documents. LangChain ingestion, FAISS plus BM25 hybrid retrieval, FLAN-T5, FastAPI, and a Streamlit chat UI.
+* **[2Care Voice Agent](https://github.com/SamaelSama69/voice-agent)** — voice receptionist for booking, rescheduling, cancellation, and doctor lookup. FastAPI and LangChain, with evals and traces.
+* **[Fabric defect detection](https://github.com/SamaelSama69/fabric-defect-detection)** — YOLO detection for fabric and garment defects, with a FastAPI service, Streamlit dashboard, Docker, and on-device ONNX inference.
+* **[Helmet detection](https://github.com/SamaelSama69/Computer-Vision)** — earlier computer-vision project. Compared ANN, CNN, and VGG16 on 631 images to detect whether workers were wearing safety helmets.
 
-💡 I’m building a career in the **Data Science & Machine Learning** domain.
-
-I enjoy exploring datasets, finding patterns, and building predictive models that solve real-world problems. My main interests are Computer Vision, analytics, and model optimization.
-
-🎯 Currently learning:
-
-* Machine Learning & Deep Learning
-* Feature Engineering & Model Tuning
-* Cloud platforms (AWS basics)
-
-🧠 I believe:
-
-> Consistency in small projects builds real engineering skill.
-
-📫 Email: **[shaamsolanki@gmail.com](mailto:shaamsolanki@gmail.com)**
-🌐 Portfolio: https://www.mygreatlearning.com/eportfolio/sham-solanki
+SQL analytics, credit-card fraud, customer churn, and bank segmentation are in the other repositories.
 
 ---
 
-## 🔭 Current Work
+## Tech stack
 
-* Helmet Detection Computer Vision Model
-* Predictive ML models & evaluation metrics
-* EDA case studies
-* Data visualization dashboards
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Databases
+### Languages and databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite" />
 </p>
 
-### Data Science & Machine Learning
+### Machine learning
 
-Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn • OpenCV • TensorFlow • PyTorch
+Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • OpenCV • TensorFlow • PyTorch
 
-### Tools & Platforms
+### LLM applications
+
+LangChain • FAISS • FastAPI • Streamlit
+
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,aws" />
+<img src="https://skillicons.dev/icons?i=git,linux,docker" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-
-* 🪖 **Helmet Detection System** — Computer vision model detecting safety helmet usage
-* 📊 **Customer/Business Prediction Models** — Classification & regression with tuning
-* 📈 **EDA Case Studies** — Insights and feature importance analysis
-
----
-
-## 🏆 GitHub Trophies
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samaelsama69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=-C,-?" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamaelSama69&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaelSama69&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samaelsama69&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelsama69&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=SamaelSama69&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samaelsama69&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/sham-solanki">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="mailto:shaamsolanki@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
-
----
-
-⭐ *Open to internships, collaborations, and data science opportunities!*
+Open to internships and collaborations in data science and applied machine learning.
