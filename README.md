@@ -29,7 +29,7 @@
       <a href="https://github.com/SamaelSama69/fabric-defect-detection"><img src="assets/card-fabric.png" alt="Fabric defect detection. YOLO inspection with a FastAPI service, Streamlit dashboard, Docker, and on-device ONNX."></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/SamaelSama69/Computer-Vision"><img src="assets/card-vision.png" alt="Helmet detection. ANN, CNN, and VGG16 compared on 631 images."></a>
+      <a href="https://github.com/SamaelSama69/SmartTrader-X"><img src="assets/card-trader.png" alt="SmartTrader-X. Regime-aware trading for the NSE and BSE, with a Streamlit dashboard."></a>
     </td>
   </tr>
 </table>
