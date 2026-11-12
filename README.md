@@ -1,84 +1,84 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Sham+Solanki;Data+Science+%26+Machine+Learning;RAG%2C+voice+agents%2C+and+vision;Python+%C2%B7+SQL+%C2%B7+LLMs" />
-</h1>
-
 <p align="center">
-  <a href="mailto:shaamsolanki@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/sham-solanki">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/SamaelSama69">
-    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.mygreatlearning.com/eportfolio/sham-solanki">
-    <img src="https://img.shields.io/badge/Great%20Learning%20Portfolio-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <img src="assets/hero.gif" alt="Sham Solanki. Data science and machine learning. RAG, voice agents, and computer vision." width="100%">
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=760&height=36&lines=Retrieval+over+real+documents;Voice+agents+with+evals+and+traces;Vision+systems+for+the+factory+floor;Python+%C2%B7+SQL+%C2%B7+LLMs" alt="Retrieval, voice agents, vision, Python, SQL, and LLMs">
+</p>
 
-## About
+<p align="center">
+  <a href="#work"><img src="https://img.shields.io/badge/WORK-00E5FF?style=for-the-badge&labelColor=060810" alt="Work"></a>
+  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-FF2D95?style=for-the-badge&labelColor=060810" alt="About"></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/STACK-00E5FF?style=for-the-badge&labelColor=060810" alt="Stack"></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-FF2D95?style=for-the-badge&labelColor=060810" alt="Contact"></a>
+</p>
 
-I build applied machine-learning systems in Python: document retrieval, voice workflows, and computer vision. Earlier work is classical ML and SQL analytics, including classification, clustering, and business reporting.
+## Work
 
-Currently learning how to run those systems as services: Postgres, Docker, and metrics. AWS is still at the basics.
-
-📫 [shaamsolanki@gmail.com](mailto:shaamsolanki@gmail.com)
-🌐 [Great Learning portfolio](https://www.mygreatlearning.com/eportfolio/sham-solanki)
-
----
-
-## Selected work
-
-* **[Enterprise RAG](https://github.com/SamaelSama69/Enterprise_RAG_Project)** — question answering over policy documents. LangChain ingestion, FAISS plus BM25 hybrid retrieval, FLAN-T5, FastAPI, and a Streamlit chat UI.
-* **[2Care Voice Agent](https://github.com/SamaelSama69/voice-agent)** — voice receptionist for booking, rescheduling, cancellation, and doctor lookup. FastAPI and LangChain, with evals and traces.
-* **[Fabric defect detection](https://github.com/SamaelSama69/fabric-defect-detection)** — YOLO detection for fabric and garment defects, with a FastAPI service, Streamlit dashboard, Docker, and on-device ONNX inference.
-* **[Helmet detection](https://github.com/SamaelSama69/Computer-Vision)** — earlier computer-vision project. Compared ANN, CNN, and VGG16 on 631 images to detect whether workers were wearing safety helmets.
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/SamaelSama69/Enterprise_RAG_Project"><img src="assets/card-rag.png" alt="Enterprise RAG. Question answering over policy documents with LangChain, FAISS plus BM25, FLAN-T5, FastAPI, and Streamlit."></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/SamaelSama69/voice-agent"><img src="assets/card-voice.png" alt="2Care Voice Agent. Appointment booking, rescheduling, and doctor lookup with FastAPI, LangChain, and Vapi."></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/SamaelSama69/fabric-defect-detection"><img src="assets/card-fabric.png" alt="Fabric defect detection. YOLO inspection with a FastAPI service, Streamlit dashboard, Docker, and on-device ONNX."></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/SamaelSama69/Computer-Vision"><img src="assets/card-vision.png" alt="Helmet detection. ANN, CNN, and VGG16 compared on 631 images."></a>
+    </td>
+  </tr>
+</table>
 
 SQL analytics, credit-card fraud, customer churn, and bank segmentation are in the other repositories.
 
----
+## About
 
-## Tech stack
+```text
+root@profile:~$ whoami
+sham solanki
 
-### Languages and databases
+root@profile:~$ focus
+document retrieval · voice workflows · computer vision
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite" />
-</p>
+root@profile:~$ learning
+services, postgres, docker, and metrics
+```
 
-### Machine learning
+I build applied machine-learning systems in Python. Earlier work is classical ML and SQL analytics: classification, clustering, and business reporting. AWS is still at the basics.
 
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • OpenCV • TensorFlow • PyTorch
-
-### LLM applications
-
-LangChain • FAISS • FastAPI • Streamlit
-
-### Tools
+## Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,git,linux,docker&theme=dark" alt="Python, MySQL, PostgreSQL, SQLite, Git, Linux, Docker">
 </p>
 
----
+**Machine learning.** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, OpenCV, TensorFlow, PyTorch.
 
-## GitHub stats
+**LLM applications.** LangChain, FAISS, FastAPI, Streamlit.
+
+## Signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamaelSama69&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaelSama69&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamaelSama69&show_icons=true&bg_color=060810&title_color=00E5FF&text_color=F4F7FF&icon_color=FF2D95&border_color=16304a&hide_border=false&cache_seconds=86400" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaelSama69&layout=compact&bg_color=060810&title_color=00E5FF&text_color=F4F7FF&border_color=16304a&hide_border=false&cache_seconds=86400" height="165" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamaelSama69&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SamaelSama69&background=060810&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=A6B2CC&dates=A6B2CC&stroke=16304a&border=16304a&currStreakNum=F4F7FF&sideNums=F4F7FF" alt="Contribution streak">
 </p>
 
----
+## Contact
 
-Open to internships and collaborations in data science and applied machine learning.
+<p align="center">
+  <a href="mailto:shaamsolanki@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&labelColor=060810&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/sham-solanki"><img src="https://img.shields.io/badge/LINKEDIN-FF2D95?style=for-the-badge&labelColor=060810&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.mygreatlearning.com/eportfolio/sham-solanki"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=060810&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/SamaelSama69"><img src="https://img.shields.io/badge/GITHUB-FF2D95?style=for-the-badge&labelColor=060810&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<p align="center">Open to internships and collaborations in data science and applied machine learning.</p>
