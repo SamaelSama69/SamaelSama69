@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 132" role="img" aria-label="22 public repositories, 113 contributions in the last year, 10 stars, on GitHub since 2022.">
+<title>22 public repositories, 113 contributions in the last year, 10 stars, on GitHub since 2022.</title>
+<rect width="960" height="132" fill="#060810"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect x="1" y="1" width="230" height="130" fill="none" stroke="#16304a"/>
+  <text x="116" y="58" text-anchor="middle" fill="#00E5FF" font-size="36">22</text>
+  <text x="116" y="92" text-anchor="middle" fill="#A6B2CC" font-size="13" letter-spacing="2">PUBLIC REPOS</text>
+
+  <rect x="243" y="1" width="230" height="130" fill="none" stroke="#16304a"/>
+  <text x="358" y="58" text-anchor="middle" fill="#FF2D95" font-size="36">113</text>
+  <text x="358" y="92" text-anchor="middle" fill="#A6B2CC" font-size="13" letter-spacing="2">LAST YEAR</text>
+
+  <rect x="485" y="1" width="230" height="130" fill="none" stroke="#16304a"/>
+  <text x="600" y="58" text-anchor="middle" fill="#00E5FF" font-size="36">10</text>
+  <text x="600" y="92" text-anchor="middle" fill="#A6B2CC" font-size="13" letter-spacing="2">STARS</text>
+
+  <rect x="727" y="1" width="232" height="130" fill="none" stroke="#16304a"/>
+  <text x="843" y="58" text-anchor="middle" fill="#FF2D95" font-size="36">2022</text>
+  <text x="843" y="92" text-anchor="middle" fill="#A6B2CC" font-size="13" letter-spacing="2">ON GITHUB</text>
+</g>
+</svg>

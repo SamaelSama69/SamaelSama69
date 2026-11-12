@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" role="img" aria-label="About Sham Solanki">
+<title>About Sham Solanki</title>
+<rect width="960" height="280" fill="#060810"/>
+<rect x="1" y="1" width="958" height="278" fill="none" stroke="#16304a"/>
+<path d="M1 16 V1 H16" fill="none" stroke="#00E5FF" stroke-width="2"/>
+<path d="M944 1 H959 V16" fill="none" stroke="#FF2D95" stroke-width="2"/>
+<path d="M1 264 V279 H16" fill="none" stroke="#00E5FF" stroke-width="2"/>
+<path d="M944 279 H959 V264" fill="none" stroke="#FF2D95" stroke-width="2"/>
+<text x="28" y="48" fill="#FF2D95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">root@profile:~$</text>
+<text x="196" y="48" fill="#00E5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">whoami</text>
+<text x="28" y="78" fill="#F4F7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">sham solanki</text>
+<text x="28" y="122" fill="#FF2D95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">root@profile:~$</text>
+<text x="196" y="122" fill="#00E5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">focus</text>
+<text x="28" y="152" fill="#F4F7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">document retrieval  ·  voice workflows  ·  computer vision</text>
+<text x="28" y="196" fill="#FF2D95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">root@profile:~$</text>
+<text x="196" y="196" fill="#00E5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">learning</text>
+<text x="28" y="226" fill="#F4F7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">services, postgres, docker, and metrics</text>
+<rect x="28" y="244" width="10" height="16" fill="#00E5FF">
+<animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/>
+</rect>
+</svg>

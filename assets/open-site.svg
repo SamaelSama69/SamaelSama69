@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 64" role="img" aria-label="Open the hosted site">
+<title>Open the hosted site</title>
+<rect width="960" height="64" fill="#060810"/>
+<rect x="1" y="1" width="958" height="62" fill="#060810" stroke="#00E5FF"/>
+<text x="28" y="40" fill="#A6B2CC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">SYS://SITE</text>
+<text x="500" y="40" text-anchor="middle" fill="#F4F7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="2">OPEN THE HOSTED PAGE</text>
+<text x="932" y="40" text-anchor="end" fill="#FF2D95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">LIVE</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 88" role="img" aria-label="Open to internships and collaborations">
+<title>Open to internships and collaborations</title>
+<rect width="960" height="88" fill="#060810"/>
+<line x1="8" y1="8" x2="952" y2="8" stroke="#16304a"/>
+<circle cx="22" cy="48" r="5" fill="#00E5FF"/>
+<text x="40" y="54" fill="#00E5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2">PROFILE ONLINE</text>
+<text x="952" y="54" text-anchor="end" fill="#FF2D95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2">OPEN TO INTERNSHIPS</text>
+</svg>
